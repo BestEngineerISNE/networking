@@ -7,9 +7,14 @@
     },
     {
       "id": 1,
-      "tag": "s_player",
-      "url": "https://i.ibb.co/sFMLXty/ISNE-Featured-Img.png"
-    }
+      "tag": "s_p1",
+      "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
+    },
+    {
+      "id": 2,
+      "tag": "s_p1_r",
+      "url": "https://i.ibb.co/swBtCdw/Run-32x32.png"
+    },
   ],
   "comments": [
     {
