@@ -8,9 +8,26 @@
     },
     {
       "id": 1,
-      "tag": "s_p1",
-      "type": "player",
-      "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
+      "idle":[
+        {
+          "id":1,
+          "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
+        },
+        {
+          "id":2,
+          "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
+        }
+      ],
+      "run":[
+        {
+          "id":1,
+          "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
+        },
+        {
+          "id":2,
+          "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
+        }
+      ]
     },
     {
       "id": 2,
