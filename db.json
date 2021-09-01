@@ -3,16 +3,19 @@
     {
       "id": 0,
       "tag": "main_bg",
+      "type": "front_bg",
       "url": "https://i.ibb.co/sFMLXty/ISNE-Featured-Img.png"
     },
     {
       "id": 1,
       "tag": "s_p1",
+      "type": "player",
       "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
     },
     {
       "id": 2,
       "tag": "s_p1_r",
+      "type": "player",
       "url": "https://i.ibb.co/swBtCdw/Run-32x32.png"
     }
   ],
