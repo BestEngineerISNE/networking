@@ -43,19 +43,18 @@
       "type": "main"
     }
   ],
-  "comments": [
+  "loading_sprite": [
+    {
+      "id": 0,
+      "body": "Importing Main Background"
+    },
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "body": "Importing Player Sprite"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "body": "Pending Processes"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
