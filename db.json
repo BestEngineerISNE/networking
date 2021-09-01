@@ -29,10 +29,16 @@
       "run":[
         {
           "id":1,
-          "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
+          "num":12,
+          "ox":16,
+          "oy":16,
+          "url": "https://i.ibb.co/swBtCdw/Run-32x32.png"
         },
         {
-          "id":2,
+          "id":1,
+          "num":11,
+          "ox":16,
+          "oy":16,
           "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
         }
       ]
