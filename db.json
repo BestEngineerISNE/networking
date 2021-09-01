@@ -2,16 +2,12 @@
   "packet_sprite": [
     {
       "id": 0,
-      "tag": "main_bgs"
+      "tag": "main_bg",
+      "url": "https://i.ibb.co/sFMLXty/ISNE-Featured-Img.png"
     },
     {
       "id": 1,
       "tag": "s_player",
-      "url": "https://i.ibb.co/sFMLXty/ISNE-Featured-Img.png"
-    },
-    {
-      "id": 2,
-      "tag": "main_bg",
       "url": "https://i.ibb.co/sFMLXty/ISNE-Featured-Img.png"
     }
   ],
