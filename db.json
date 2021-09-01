@@ -9,6 +9,7 @@
     {
       "id": 1,
       "tag": "Importing Player Sprite",
+      "sprite_count":4,
       "idle":[
         {
           "id":1,
