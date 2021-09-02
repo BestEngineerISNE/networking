@@ -12,14 +12,14 @@
       "sprite_count":7,
       "idle":[
         {
-          "id":1,
+          "id":0,
           "num":11,
           "ox":16,
           "oy":16,
           "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
         },
         {
-          "id":2,
+          "id":1,
           "num":11,
           "ox":16,
           "oy":16,
@@ -28,14 +28,14 @@
       ],
       "run":[
         {
-          "id":1,
+          "id":0,
           "num":12,
           "ox":16,
           "oy":16,
           "url": "https://i.ibb.co/swBtCdw/Run-32x32.png"
         },
         {
-          "id":2,
+          "id":1,
           "num":11,
           "ox":16,
           "oy":16,
@@ -44,21 +44,21 @@
       ],
       "appear":[
         {
-          "id":1,
+          "id":0,
           "num":7,
           "ox":48,
           "oy":48,
           "url": "https://i.ibb.co/GC7b0wM/Appearing-96x96.png"
         },
         {
-          "id":2,
+          "id":1,
           "num":1,
           "ox":16,
           "oy":16,
           "url": "https://i.ibb.co/nzCPqf4/Jump-32x32.png"
         },
         {
-          "id":3,
+          "id":2,
           "num":1,
           "ox":16,
           "oy":16,
