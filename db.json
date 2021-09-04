@@ -101,10 +101,12 @@
   "loading_sprite": [
     {
       "id": 0,
+      "count":1,
       "body": "Importing Main Vinyl"
     },
     {
       "id": 1,
+      "count":14,
       "body": "Importing Sprite Packages"
     },
     {
