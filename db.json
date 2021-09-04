@@ -24,13 +24,6 @@
           "ox":16,
           "oy":16,
           "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
-        },
-        {
-          "id":2,
-          "num":11,
-          "ox":16,
-          "oy":16,
-          "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
         }
       ],
       "run":[
@@ -100,6 +93,10 @@
         },
         {
           "id":5,
+          "url":"https://i.ibb.co/wd05Fm1/background7.png"
+        },
+        {
+          "id":6,
           "url":"https://i.ibb.co/wd05Fm1/background7.png"
         }
         ]
