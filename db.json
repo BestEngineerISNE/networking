@@ -105,11 +105,11 @@
     },
     {
       "id": 1,
-      "body": "Importing Player Sprite"
+      "body": "Importing Sprite Packages"
     },
     {
       "id": 2,
-      "body": "Loading Backgrounds"
+      "body": "Starting Up"
     }
   ]
 }
