@@ -2,7 +2,7 @@
   "packet_sprite": [
     {
       "id": 0,
-      "tag": "Importing Main Background",
+      "tag": "Importing Main Vinyl",
       "type": "front_bg",
       "url": "https://i.ibb.co/sFMLXty/ISNE-Featured-Img.png"
     },
@@ -68,14 +68,40 @@
     },
     {
       "id": 2,
-      "tag": "Pending Processes",
-      "type": "main"
+      "tag": "Loading Backgrounds",
+      "type": "main",
+      "bg":[
+        {
+          "id":0,
+          "url":"https://i.ibb.co/tPDsHQ1/background0.png"
+        },
+        {
+          "id":1,
+          "url":"https://i.ibb.co/MZ55Jph/background1.png"
+        },
+        {
+          "id":2,
+          "url":"https://i.ibb.co/vkbP2sH/background2.png"
+        },
+        {
+          "id":3,
+          "url":"https://i.ibb.co/F75S5cN/background3.png"
+        },
+        {
+          "id":4,
+          "url":"https://i.ibb.co/xzd7TH6/background6.png"
+        },
+        {
+          "id":5,
+          "url":"https://i.ibb.co/wd05Fm1/background7.png"
+        }
+        ]
     }
   ],
   "loading_sprite": [
     {
       "id": 0,
-      "body": "Importing Main Background"
+      "body": "Importing Main Vinyl"
     },
     {
       "id": 1,
@@ -83,7 +109,8 @@
     },
     {
       "id": 2,
-      "body": "Pending Processes"
+      "body": "Loading Backgrounds"
     }
   ]
 }
+
