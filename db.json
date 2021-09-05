@@ -64,7 +64,16 @@
           "oy":16,
           "url": "https://i.ibb.co/KFFLN1s/Fall-32x32.png"
         }
-      ]
+      ],
+      "other":[
+        {
+          "id":0,
+          "num":8,
+          "ox":7,
+          "oy":32,
+          "url": "https://i.ibb.co/L1F5BJk/s-candle.png"
+        }
+        ]
     },
     {
       "id": 2,
@@ -113,4 +122,3 @@
     }
   ]
 }
-
