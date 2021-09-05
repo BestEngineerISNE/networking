@@ -8,12 +8,6 @@
     },
     {
       "id": 1,
-      "tag": "Importing Main Vinyl",
-      "type": "front_bg_test",
-      "url": "https://i.ibb.co/sFMLXty/ISNE-Featured-Img.png"
-    }
-    {
-      "id": 1,
       "tag": "Importing Player Sprite",
       "sprite_count":14,
       "idle":[
@@ -94,11 +88,11 @@
           "url":"https://i.ibb.co/F75S5cN/background3.png"
         },
         {
-          "id":4,
+          "id":5,
           "url":"https://i.ibb.co/xzd7TH6/background6.png"
         },
         {
-          "id":5,
+          "id":4,
           "url":"https://i.ibb.co/wd05Fm1/background7.png"
         }
         ]
