@@ -121,5 +121,19 @@
       "id": 2,
       "body": "Starting Up"
     }
-  ]
+  ],
+  "News":[
+    {
+      "id": 1,
+      "topic":"Update version 1.0.0 log",
+      "text":"The first version that will be developed more and more in the future that based on Information System and neะwork engineer curriculum (nothing much in this first version no games no meeting no multiplyer!"
+    },
+    {
+      "id":2,
+      "topic":"Welcome To ISNE meeting",
+      "text":"This programs stakeholder is ISNE student for cooperated and emphasize in courses",
+      "picture":"https://i.ibb.co/sFMLXty/ISNE-Featured-Img.png",
+      "url":"https://www.cpe.eng.cmu.ac.th/ISNEcurriculum.php?view_id=ISNEcurriculum2561BE-Thai"
+    }
+    ]
 }
