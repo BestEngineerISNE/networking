@@ -110,7 +110,8 @@
   "loading_sprite": [
     {
       "id": 0,
-      "body": "Importing Database"
+      "body": "Importing Database",
+      "version": "1.0.0"
     },
     {
       "id": 1,
