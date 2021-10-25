@@ -111,7 +111,8 @@
     {
       "id": 0,
       "body": "Importing Database",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "version_url": "www.google.com"
     },
     {
       "id": 1,
