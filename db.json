@@ -157,8 +157,8 @@
     ],
     "Calendar":[
       {
-        "year":"2021",
-        "month":"10",
+        "year":2021,
+        "month":10,
         "day":[
           {
             "header":"day",
@@ -175,8 +175,8 @@
           ]
       },
       {
-        "year":"2021",
-        "month":"11",
+        "year":2021,
+        "month":11,
         "day":[
           {
             "header":"day",
