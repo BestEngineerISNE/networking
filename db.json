@@ -166,68 +166,26 @@
       {
         "year":2021,
         "month":10,
-        "day":[
-          {
-            "header":"day",
-            "day":28
-          },
-          {
-            "header":"topic",
-            "text":"Update test"
-          },
-          {
-            "header":"signature",
-            "text":"Update"
-          },
-          {
-            "header":"text",
-            "text":"Yeah we are next the finish line."
-          }
-          ]
+        "day":28,
+        "topic":"Update Test",
+        "signature":"Updates",
+        "text":"Test the system"
       },
       {
         "year":2021,
         "month":10,
-        "day":[
-          {
-            "header":"day",
-            "day":28
-          },
-          {
-            "header":"topic",
-            "text":"Development Days"
-          },
-          {
-            "header":"signature",
-            "text":"FirstDay"
-          },
-          {
-            "header":"text",
-            "text":"First days on developing calendar."
-          }
-          ]
+        "day":28,
+        "topic":"Development Days",
+        "signature":"DevDays",
+        "text":"First days on developing calendar"
       },
       {
         "year":2021,
         "month":11,
-        "day":[
-          {
-            "header":"day",
-            "day":19
-          },
-          {
-            "header":"topic",
-            "text":"Loikratong Day"
-          },
-          {
-            "header":"signature",
-            "text":"Loikratong"
-          },
-          {
-            "header":"text",
-            "text":"Yeah it's not a holiday and i have to study first LOL."
-          }
-          ]
+        "day":19,
+        "topic":"Loikratong Day",
+        "signature":"Loikratong",
+        "text":"Yeah it's not a holiday and i have to study first LOL."
       }
       ]
 }
