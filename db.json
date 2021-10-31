@@ -169,7 +169,10 @@
         "day":28,
         "topic":"Update Test",
         "signature":"Updates",
-        "text":"Test the system"
+        "text":"Test the system",
+        "hour":12,
+        "minutes":30,
+        "second":5
       },
       {
         "year":2021,
@@ -178,6 +181,9 @@
         "topic":"Development Days",
         "signature":"DevDays",
         "text":"First days on developing calendar"
+        "hour":15,
+        "minutes":30,
+        "second":5
       },
       {
         "year":2021,
@@ -186,6 +192,9 @@
         "topic":"Loikratong Day",
         "signature":"Loikratong",
         "text":"Yeah it's not a holiday and i have to study first LOL."
+        "hour":0,
+        "minutes":0,
+        "second":0
       }
       ]
 }
