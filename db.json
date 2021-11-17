@@ -8,8 +8,7 @@
     },
     {
       "id": 1,
-      "tag": "Importing Player Sprite",
-      "sprite_count":2
+      "tag": "Importing Player Sprite"
     },
     {
       "id": 2,
@@ -32,7 +31,7 @@
     },
     {
       "id": 1,
-      "count": 15,
+      "count": 2,
       "body": "Importing Sprite Packages",
       "url": "https://my-json-server.typicode.com/BestEngineerISNE/networking/packet_sprite"
     },
