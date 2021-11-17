@@ -9,71 +9,7 @@
     {
       "id": 1,
       "tag": "Importing Player Sprite",
-      "sprite_count":14,
-      "idle":[
-        {
-          "id":0,
-          "num":11,
-          "ox":16,
-          "oy":16,
-          "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
-        },
-        {
-          "id":1,
-          "num":11,
-          "ox":16,
-          "oy":16,
-          "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
-        }
-      ],
-      "run":[
-        {
-          "id":0,
-          "num":12,
-          "ox":16,
-          "oy":16,
-          "url": "https://i.ibb.co/swBtCdw/Run-32x32.png"
-        },
-        {
-          "id":1,
-          "num":11,
-          "ox":16,
-          "oy":16,
-          "url": "https://i.ibb.co/gZ4r14m/Idle-32x32.png"
-        }
-      ],
-      "appear":[
-        {
-          "id":0,
-          "num":7,
-          "ox":48,
-          "oy":48,
-          "url": "https://i.ibb.co/GC7b0wM/Appearing-96x96.png"
-        },
-        {
-          "id":1,
-          "num":1,
-          "ox":16,
-          "oy":16,
-          "url": "https://i.ibb.co/nzCPqf4/Jump-32x32.png"
-        },
-        {
-          "id":2,
-          "num":1,
-          "ox":16,
-          "oy":16,
-          "url": "https://i.ibb.co/KFFLN1s/Fall-32x32.png"
-        }
-      ],
-      "other":[
-        {
-          "id":0,
-          "num":8,
-          "ox":7,
-          "oy":32,
-          "url": "https://i.ibb.co/L1F5BJk/s-candle.png"
-        }
-        ]
+      "sprite_count":2
     },
     {
       "id": 2,
@@ -83,26 +19,6 @@
         {
           "id":0,
           "url":"https://i.ibb.co/tPDsHQ1/background0.png"
-        },
-        {
-          "id":1,
-          "url":"https://i.ibb.co/MZ55Jph/background1.png"
-        },
-        {
-          "id":2,
-          "url":"https://i.ibb.co/vkbP2sH/background2.png"
-        },
-        {
-          "id":3,
-          "url":"https://i.ibb.co/F75S5cN/background3.png"
-        },
-        {
-          "id":4,
-          "url":"https://i.ibb.co/xzd7TH6/background6.png"
-        },
-        {
-          "id":5,
-          "url":"https://i.ibb.co/wd05Fm1/background7.png"
         }
         ]
     }
